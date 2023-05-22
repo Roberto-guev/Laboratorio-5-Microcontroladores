@@ -12,5 +12,6 @@ Despues vienen las comparaciones con los registros r1 y r2 que almacenan el valo
 El codigo se compila y se transforma a un archivo.bin mediante los comandos arm-as2 blink.s -o blink.o y arm-objcopy2 -O binary blink.o blink.bin y se descarga el codigo en el microcontrolador con ayuda del programa STM32CubeProgrammer y la usb ST-LINK v2.
 
 DIAGRAMA DE LA CONFIGURACION DEL HARDWARE:
+![image](https://github.com/Roberto-guev/Laboratorio-5-Microcontroladores/assets/124948069/0c1415bf-64a2-47e1-87d7-58f41b4430ab)
 
 
